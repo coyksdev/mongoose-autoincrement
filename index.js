@@ -1,1 +1,1 @@
-module.exports = require('./lib/friendlyId');
+module.exports = require('./lib/plugin');
