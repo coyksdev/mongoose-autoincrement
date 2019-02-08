@@ -8,11 +8,9 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "mongoose": "^4.13.6"
-  },
   "dependencies": {
     "lodash": "^4.17.4",
-    "moment": "^2.19.4"
+    "moment": "^2.19.4",
+    "mongoose": "^5.4.10"
   }
 }
